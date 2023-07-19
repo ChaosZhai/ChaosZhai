@@ -9,6 +9,6 @@ Hi👋, I'm Chaos, Senior in CS and Applied Maths at Carnegie Mellon University 
 - ..and :headphones::luggage::film_strip::spades::badminton::ping_pong::tennis::ski::soccer::ice_skate:
 - 🔁 ...and there's nothing fun left here (or w.h.p. in aforementioned :\)
 
-[![Chaos's GitHub stats](https://github-readme-stats-git-master-chaoszhai.vercel.app/api?username=ChaosZhai)](https://github.com/ChaosZhai/github-readme-stats)
+[![Chaos's GitHub stats](https://github-readme-stats-git-master-chaoszhai.vercel.app/api?username=ChaosZhai&hide=stars&show_icons=true&rank_icon=github)](https://github.com/ChaosZhai/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-master-chaoszhai.vercel.app/api/top-langs/?username=ChaosZhai&langs_count=10&layout=compact&hide=CMake,Makefile,Batchfile,CSS,HTML)](https://github.com/ChaosZhai/github-readme-stats)
